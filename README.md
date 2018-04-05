@@ -10,7 +10,7 @@ This tutorial starts in the begining of 2018, and my knowledge that time is:
 
 So if you want to read this tutorial, it's recommended that you have at least equal knowledge in the areas above. Also, it's recommended that you watch Stanford CS231n first. The brilliant lecturers will give a clear, general picture of computer vision (of course you should have some general idea about CV before you dive into a specific area). And it's also recommended to finish its homework, which would help  you have a better understanding of deep learning framework (Tensorflow, Pytorch, etc.)
 
-In this tutorial, I would assume you have the ability above so programming language related stuffs wont't be covered. You can get everything you need in StackOverflow. And this tutorial contains several parts:
+In this tutorial, I would assume you have the ability above so programming language related stuffs wont't be covered. You can get everything you need in StackOverflow. This tutorial contains several parts:
 
 1. From Tensorflow to Pytorch - Train Resnet50 on CIFAR-10
 2. Introduction to Reid - Train a Part-based Convolutional Baseline (PCB)
