@@ -12,6 +12,6 @@ So if you want to read this tutorial, it's recommended that you have at least eq
 
 In this tutorial, I would assume you have the ability above so programming language related stuffs wont't be covered. You can get everything you need in StackOverflow. This tutorial contains several parts:
 
-1. From Tensorflow to Pytorch - Train Resnet50 on CIFAR-10
-2. Introduction to Reid - Train a Part-based Convolutional Baseline (PCB)
+1. [From Tensorflow to Pytorch - Train Resnet50 on CIFAR-10](http://localhost:1313/posts/pytorch-tutorial-resnet-on-cifar10/)
+2. [Introduction to Reid - Train a Part-based Convolutional Baseline (PCB)](http://localhost:1313/posts/reid-tutorial-train-a-pcb-model/)
 3. to be continued ...
