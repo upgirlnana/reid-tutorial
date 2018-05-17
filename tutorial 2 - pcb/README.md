@@ -10,3 +10,6 @@ Explanation of this code could be seen in [my blog](http://www.ecr23.me/reid/htt
 
 If you came across any problems, please open an issue and I'll response to you in one day 🙂.
 
+## Credit
+- [huanghoujing/beyond-part-models](https://github.com/huanghoujing/beyond-part-models)
+- [YHJRUBY/ReID_PCB](https://github.com/YHJRUBY/ReID_PCB)
